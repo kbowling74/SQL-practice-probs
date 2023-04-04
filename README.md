@@ -1,2 +1,4 @@
-# MavenAnalytics_SQL_Probs
-Collection of solved SQL problems weekly from Maven Analytics. 
+# SQL Challenges
+
+My solutions to Data In Motion's weekly SQL challenges. 
+Solutions and problems are in each folder. 
