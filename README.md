@@ -5,7 +5,8 @@ A collection of solved SQL problems from various sources. <br><br>
 Languages used to date:<br>
 - MySQL
 <br>
-<br>
-Sources of problems:<br>
+Sources of problems:
+<br><ul>
 - Data in Motion
 - Leetcode
+</ul>
